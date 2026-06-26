@@ -23,7 +23,6 @@ Sysmon is a Microsoft Sysinternals tool that provides detailed system activity m
 
 | Component | Details |
 |---|---|
-| Virtual Machine | Oracle VirtualBox |
 | Operating System | Windows 10 / Windows 11 |
 | Monitoring Tool | Sysmon |
 | Log Viewer | Windows Event Viewer |
